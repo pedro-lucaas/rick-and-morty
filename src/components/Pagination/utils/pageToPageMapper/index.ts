@@ -1,0 +1,1 @@
+export { default as pageToPageMapper } from './pageToPageMapper';

@@ -1,0 +1,1 @@
+export { default as useIsWatchlist } from './useIsWatchlist';
